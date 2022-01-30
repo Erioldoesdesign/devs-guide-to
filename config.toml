@@ -1,7 +1,7 @@
 baseURL = 'https://erioldoesdesign.github.io/devs-guide-to/'
 languageCode = 'en-us'
 title = 'A devs guide to...'
-theme = "terminal"
+theme = "themes/terminal"
 
 [params]
   contentTypeName = "posts"
